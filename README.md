@@ -9,8 +9,8 @@
 ## App-Diagram 
 ![Screenshot](./preview.png)
 
-# WorkoutsTracker
-### [https://workoutstracker.com](https://workoutstracker.com)
+# BMCC INFORMATION BOT
+### [https://bmcc-information-bot.web.app](https://bmcc-information-bot.web.app)
 
 # Getting Started with Create React App
 
