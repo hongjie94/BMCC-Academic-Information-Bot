@@ -1,3 +1,17 @@
+# Technologies Used
+* React
+* CSS3
+* HTML5
+* IMB Waston Assiant
+* Animate.css(Animation)
+* Firebase(Hosting)
+
+## App-Diagram 
+![Screenshot](./preview.png)
+
+# WorkoutsTracker
+### [https://workoutstracker.com](https://workoutstracker.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
