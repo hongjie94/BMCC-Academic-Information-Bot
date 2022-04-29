@@ -3,7 +3,7 @@
 * CSS3
 * HTML5
 * IMB Waston Assiant
-* Animate.css(Animation)
+* Framer Motion(Animation)
 * Firebase(Hosting)
 
 ## App-Diagram 
