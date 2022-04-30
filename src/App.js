@@ -15,6 +15,7 @@ function App() {
       >
         <img src={logo} alt="logoImage"/>
         <h1>Information Bot</h1>
+        
       </motion.div>
       <motion.div className="bg"
         initial={{ opacity: 0}}

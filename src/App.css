@@ -27,6 +27,7 @@ h1 {
 .bg > img {
   width: 100%;
   max-width: 1000px;
+  height: 55vh;
 }
 
 
