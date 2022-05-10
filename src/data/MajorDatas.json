@@ -1,0 +1,551 @@
+[
+  {
+    "title": "Children and Youth Studies",
+    "name": "Children and Youth Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/english/children-and-youth-studies/",
+    "node_id": "node_10_1651297501609",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Children-and-Youth-Studies-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cys2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cys3yr.pdf"
+  },
+  {
+    "title": "Urban Studies",
+    "name": "Urban Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/urban-studies/",
+    "node_id": "node_10_1651298280932",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Business Administration",
+    "name": "Business Administration (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/business-administration/",
+    "node_id": "node_10_1651298844804",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Business-Administration-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ban2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ban3yr.pdf"
+  },
+  {
+    "title": "Digital Marketing",
+    "name": "Digital Marketing (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/digital-marketing/",
+    "node_id": "node_10_1651298845862",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Digital-Marketing-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/dma2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/dma3yr.pdf"
+  },
+  {
+    "title": "School Health Education",
+    "name": "School Health Education (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/programs/school-health-education-she/",
+    "node_id": "node_10_1651298849367",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/School-Health-Education-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/she2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/she3yr.pdf"
+  },
+  {
+    "title": "Mathematics",
+    "name": "Mathematics (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/math/mathematics-program/",
+    "node_id": "node_10_1651298850856",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Mathematics-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mat2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mat3yr.pdf"
+  },
+  {
+    "title": "Computer Information Systems",
+    "name": "Computer Information Systems (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/cis/computer-information-systems-cis/",
+    "node_id": "node_1_1651289072022",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Computer-Information-Systems-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cis2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cis3yr.pdf"
+  },
+  {
+    "title": "Computer Network Technology",
+    "name": "Computer Network Technology (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/cis/computer-network-technology/",
+    "node_id": "node_1_1651289156675",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Computer-Network-Technology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cnt2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/cnt3yr.pdf"
+  },
+  {
+    "title": "Criminal Justice",
+    "name": "Criminal Justice (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/criminal-justice/",
+    "node_id": "node_1_1651297719890",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Criminal-Justice-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/crj2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/crj3yr.pdf"
+  },
+  {
+    "title": "Secondary Education for Social Studies",
+    "name": "Secondary Education for Social Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/secondary-education-for-social-studies/",
+    "node_id": "node_1_1651298280496",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Secondary-Education-for-Social-Studies-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ses2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ses3yr.pdf"
+  },
+  {
+    "title": "Sociology",
+    "name": "Sociology (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/sociology/",
+    "node_id": "node_1_1651298280709",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Sociology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/soc2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/soc3yr.pdf"
+  },
+  {
+    "title": "Accounting",
+    "name": "Accounting (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/accounting/accounting/",
+    "node_id": "node_2_1651277113006",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Accounting-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/acc2yr.pdf",
+    "academicMap5semesterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/acc3yr.pdf"
+  },
+  {
+    "title": "Health Information Technology",
+    "name": "Health Information Technology (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/allied-health/about-hit/health-information-technology-program-requirements/",
+    "node_id": "node_2_1651289277334",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Health-Information-Technology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/hit2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/hit3yr.pdf"
+  },
+  {
+    "title": "Respiratory Therapy",
+    "name": "Respiratory Therapy (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/allied-health/respiratory-therapy/",
+    "node_id": "node_2_1651291293561",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Respiratory-Therapy-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/rtt2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/rtt3yr.pdf"
+  },
+  {
+    "title": "Cyber-Security",
+    "name": "Cyber-Security",
+    "detailLink": "https://www.bmcc.cuny.edu/cyber-security-micro-credential/",
+    "node_id": "node_2_1651294365772",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Health Informatics Certificate Program",
+    "name": "Health Informatics Certificate Program",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/allied-health/health-informatics-certificate/",
+    "node_id": "node_2_1651297071441",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Communication Studies",
+    "name": "Communication Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/speech/communication-studies/",
+    "node_id": "node_2_1651297668430",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Communication-Studies-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/com2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/com3yr.pdf"
+  },
+  {
+    "title": "Critical Thinking and Justice",
+    "name": "Critical Thinking and Justice (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/academic-literacy/critical-thinking-and-justice/",
+    "node_id": "node_2_1651297799601",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Liberal Arts",
+    "name": "Liberal Arts (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/programs/liberal-arts/",
+    "node_id": "node_2_1651298040081",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Liberal-Arts-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/lib2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/lib3yr.pdf"
+  },
+  {
+    "title": "Science for Health",
+    "name": "Science for Health (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/science/science-for-health-professions/",
+    "node_id": "node_2_1651298851454",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2022/01/Science-for-Health-Professions-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/shp2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/shp3yr.pdf"
+  },
+  {
+    "title": "Childhood Education",
+    "name": "Childhood Education",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/childhood-education-edu/",
+    "node_id": "node_3_1651297430961",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Writing and Literature",
+    "name": "Writing and Literature (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/english/requirements/",
+    "node_id": "node_3_1651298281178",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Writing-and-Literature-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eng2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eng3yr.pdf"
+  },
+  {
+    "title": "Animation and Motion Graphics",
+    "name": "Animation and Motion Graphics (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/media-arts-and-technology/animation-and-motion-graphics/",
+    "node_id": "node_3_1651298842680",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Animation-and-Motion-Graphics-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ani2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ani3yr.pdf"
+  },
+  {
+    "title": "Science for Forensics",
+    "name": "Science for Forensics (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/science/science-for-forensics/",
+    "node_id": "node_3_1651298843931",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Science-for-Forensics-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fsc2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fsc3yr.pdf"
+  },
+  {
+    "title": "Financial Management",
+    "name": "Financial Management (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/financial-management/",
+    "node_id": "node_3_1651298846309",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Financial-Management-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fin2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fin3yr.pdf"
+  },
+  {
+    "title": "Gerontology",
+    "name": "Gerontology (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/programs/gerontology/",
+    "node_id": "node_3_1651298846879",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Gerontology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ger2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/ger3yr.pdf"
+  },
+  {
+    "title": "Theatre",
+    "name": "Theatre (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/speech/theatre/",
+    "node_id": "node_3_1651298851689",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2021/04/Theatre-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/the2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/the3yr.pdf"
+  },
+  {
+    "title": "Art Foundations: Art History",
+    "name": "Art Foundations: Art History (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu//academics/departments/music-and-art/art-foundations-art-history/",
+    "node_id": "node_4_1651296694349",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Art-History-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/afh2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/afh3yr.pdf"
+  },
+  {
+    "title": "Economics",
+    "name": "Economics (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/economics/",
+    "node_id": "node_4_1651297845126",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Economics-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eco2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eco3yr.pdf"
+  },
+  {
+    "title": "Modern Languages: French",
+    "name": "Modern Languages: French (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/french/",
+    "node_id": "node_4_1651298104904",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Modern-Languages-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-frn-2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-frn-3yr.pdf"
+  },
+  {
+    "title": "Psychology",
+    "name": "Psychology (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/psychology/",
+    "node_id": "node_4_1651298279948",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Psychology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/psy2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/psy3yr.pdf"
+  },
+  {
+    "title": "Art Foundations: Studio Art",
+    "name": "Art Foundations: Studio Art (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/music-and-art/art-foundations-studio-art/",
+    "node_id": "node_4_1651298843466",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Studio-Art-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/afs2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/afs3yr.pdf"
+  },
+  {
+    "title": "Child Care/Early Childhood Education",
+    "name": "Child Care/Early Childhood Education (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/child-care-early-childhood-education/",
+    "node_id": "node_4_1651298845051",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Childhood-Education-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/edu2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/edu3yr.pdf"
+  },
+  {
+    "title": "Community Health Education",
+    "name": "Community Health Education (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/health-education/community-health-education/",
+    "node_id": "node_4_1651298845264",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Community-Health-Education-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/coh2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/coh3yr.pdf"
+  },
+  {
+    "title": "Video Arts and Technology",
+    "name": "Video Arts and Technology (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/media-arts-and-technology/video-arts-and-technology/",
+    "node_id": "node_4_1651298852033",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Video-Arts-and-Technology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/vat2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/vat3yr.pdf"
+  },
+  {
+    "title": "Modern Languages: Spanish Translation and Interpretation",
+    "name": "Modern Languages: Spanish Translation and Interpretation (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/modern-languages-spanish-translation-and-interpretation/",
+    "node_id": "node_5_1651298279151",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Computer Science",
+    "name": "Computer Science (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/cis/computer-science/",
+    "node_id": "node_5_1651298845620",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Computer-Science-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/csc2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/csc3yr.pdf"
+  },
+  {
+    "title": "Paramedic",
+    "name": "Paramedic (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/allied-health/paramedic/",
+    "node_id": "node_6_1651291149203",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Paramedic-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/emc2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/emc3yr.pdf"
+  },
+  {
+    "title": "Small Business/Entrepreneurship",
+    "name": "Small Business/Entrepreneurship (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/sbe/",
+    "node_id": "node_6_1651291399833",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Small-Business-Entrepreneurship-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sbe2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sbe3yr.pdf"
+  },
+  {
+    "title": "Accounting Certificate Program",
+    "name": "Accounting Certificate Program (ACP)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/accounting/accounting-certificate-program-acp/",
+    "node_id": "node_6_1651296948981",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Ethnic Studies",
+    "name": "Ethnic Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/ethnic-studies/ethnic-studies/",
+    "node_id": "node_6_1651297881589",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Ethnic-Studies-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eth2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/eth3yr.pdf"
+  },
+  {
+    "title": "Gender and Women’s Studies",
+    "name": "Gender and Women’s Studies (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/programs/gender-and-womens-studies/",
+    "node_id": "node_6_1651297924382",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2021/04/Gender-and-Women-Studies-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/gws2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/gws3yr.pdf"
+  },
+  {
+    "title": "Biotechnology Science",
+    "name": "Biotechnology Science (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/science/biotechnology-science/",
+    "node_id": "node_6_1651298844581",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Biotechnology-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bte2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bte3yr.pdf"
+  },
+  {
+    "title": "Mathematics and Sciences for Secondary Education",
+    "name": "Mathematics and Sciences for Secondary Education (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/secondary-education-program/",
+    "node_id": "node_6_1651298847161",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Math-and-Science-for-Secondary-Education-Career-Map.pdf",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Business Management",
+    "name": "Business Management (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/business-management/",
+    "node_id": "node_7_1651287687856",
+    "careerMap": "N/A", 
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Nursing",
+    "name": "Nursing (A.A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/nursing/nursing-program/",
+    "node_id": "node_7_1651289355007",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Nursing-Career-Map.pdf",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Bilingual Childhood Education",
+    "name": "Bilingual Childhood Education (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/bilingual-childhood-education-edb/",
+    "node_id": "node_7_1651296922679",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Bilingual-Childhood-Education-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/edb2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/edb3yr.pdf"
+  },
+  {
+    "title": "Linguistics and Literacy",
+    "name": "Linguistics and Literacy (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/academic-literacy/linguistics-and-literacy/",
+    "node_id": "node_7_1651298095300",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Linguistics-and-Literacy-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/lin2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/lin3yr.pdf"
+  },
+  {
+    "title": "Modern Languages: Spanish",
+    "name": "Modern Languages: Spanish (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/spanish/",
+    "node_id": "node_7_1651298107951",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Modern-Languages-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-spn-2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-spn-3yr.pdf"
+  },
+  {
+    "title": "Engineering Science",
+    "name": "Engineering Science (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/science/engineering-science/",
+    "node_id": "node_7_1651298846079",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Engineering-Science-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/esc2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/esc3yr.pdf"
+  },
+  {
+    "title": "Science",
+    "name": "Science (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/science/science/",
+    "node_id": "node_7_1651298849611",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Science-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sci2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sci3yr.pdf"
+  },
+  {
+    "title": "History",
+    "name": "History (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/history/",
+    "node_id": "node_8_1651297977982",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/History-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/his2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/his3yr.pdf"
+  },
+  {
+    "title": "Modern Languages: Italian",
+    "name": "Modern Languages: Italian (A.A.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/italian/",
+    "node_id": "node_8_1651298106707",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Modern-Languages-Career-Map.pdff",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-itl-2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mla-itl-3yr.pdf"
+  },
+  {
+    "title": "Geographic Information Science",
+    "name": "Geographic Information Science (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/programs/geographic-information-science-gis/",
+    "node_id": "node_8_1651298846577",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Geographic-Information-Science-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/gis2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/gis3yr.pdf"
+  },
+  {
+    "title": "Public and Nonprofit Administration",
+    "name": "Public and Nonprofit Administration (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/public-and-nonprofit-administration/",
+    "node_id": "node_8_1651298848737",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/10/CareerMapsSetPublicandNonProfitAdmin.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/pan2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/pan3yr.pdf"
+  },
+  {
+    "title": "Human Services",
+    "name": "Human Services (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/human-services/",
+    "node_id": "node_8_1651298850400",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Human-Services-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/hum2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/hum3yr.pdf"
+  },
+  {
+    "title": "Spanish Translation for the Health, Legal and Business Professions Certificate Program",
+    "name": "Spanish Translation for the Health, Legal and Business Professions Certificate Program",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/spanish-translation-certificate/",
+    "node_id": "node_9_1651297147291",
+    "careerMap": "N/A",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Accounting for Forensic Accounting",
+    "name": "Accounting for Forensic Accounting (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/accounting/accounting-for-forensic-accounting/",
+    "node_id": "node_9_1651298838529",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Forensic-Accounting-Career-Map.pdf",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Multimedia Programming and Design",
+    "name": "Multimedia Programming and Design (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/media-arts-and-technology/multimedia-programming-and-design/",
+    "node_id": "node_9_1651298847471",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Multimedia-Programming-and-Design-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mmd2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mmd3yr.pdf"
+  },
+  {
+    "title": "Music",
+    "name": "Music (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/music-and-art/music/",
+    "node_id": "node_9_1651298848496",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Music-Career-Map.pdf",
+    "academicMap2YearPlan": "N/A",
+    "academicMap5semesterPlan": "N/A"
+  },
+  {
+    "title": "Public Health",
+    "name": "Public Health (A.S.)",
+    "detailLink": "https://www.bmcc.cuny.edu/academics/departments/health-education/public-health/",
+    "node_id": "node_9_1651298849052",
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Public-Health-Career-Map.pdf",
+    "academicMap2YearPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/phe2yr.pdf",
+    "academicMap5semesterPlan": "https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/phe3yr.pdf"
+  }
+]

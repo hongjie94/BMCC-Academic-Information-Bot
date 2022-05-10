@@ -1,0 +1,19 @@
+.BotAvatar {
+  height: 43px;
+  width: 47px;
+  border-radius: 100%;
+  display:flex;
+  margin-right: 10px;
+  align-items: center;
+  justify-content: center;
+  padding: 1px;
+  background-color: #1D56A7;
+  background-size: contain;
+}
+     
+.Avatar {
+  width: 85%;
+  border-radius: 100%;
+  margin-bottom: 3px;
+  border-color:#1D56A7 ;
+}

@@ -1,54 +1,140 @@
-.App {
-  text-align: center;
-  padding: 0 2em;
+
+.app {
+  height: 100vh;
 }
 
-h1 {
-  color: #FF5600;
-  font-size: 4em;
-  font-weight: bolder;
-  padding-bottom: 8px;
-}
-
-.head {
-  display: flex;
+/******* Navbar section *******/
+.navbar {
+  height: 15vh;
+  background: #F2F2F2;
+  display:flex;
   justify-content: center;
   align-items: center;
 }
 
-.head > img {
-  padding: 0px 15px 69px 0px;
+.navbar-content {
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.bg {
+.navbar-content >img {
+ height: 175px;
+}
+
+.navbar-content > .textBox {
+  display: flex;
+  padding: 0 1.5em;
+  height: 15vh;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  font-size: 18px;
+}
+.navbar-content > .textBox > h1 {
+  margin: 0;
+  color: #FF5600;
+}
+
+/******* Contents section *******/
+.contents {
+  background: #3F3D56;
+  display: flex;
+  justify-content: space-between;
+  min-height: 70vh;
+}
+
+.image-container {
+  width: 60%;
+  display: flex;
+  padding: 3em;
+  height: auto;
+  align-items: flex-end;
+}
+.image-container > img {
   width: 100%;
 }
+.chatboot-container {
+  display: flex;
+  justify-content:center;
+  padding: 3em 1em;
+  width: 40%;
+}
 
-.bg > img {
-  width: 100%;
-  max-width: 1000px;
-  height: 55vh;
+/******* Footer section *******/
+.footer {
+  height: 15vh;
+  background: #F2F2F2;
+}
+
+/******* Chatbot custom section *******/
+.react-chatbot-kit-chat-container {
+  background: #ffffff;
+}
+.react-chatbot-kit-chat-input-form {
+  background: #3F3D56;
+}
+
+/******* mobile resiponsive design *******/
+
+@media(max-width: 710px){
+  .navbar-content >img {
+    height: 105px;
+  }
+  .navbar-content > .textBox > h1 {
+    font-size: 18px;
+  }
+  .navbar-content > .textBox {
+    padding-top: 32px;
+    padding-left: 10px;
+  }
+
+  .image-container {
+    display: none
+  }
+
+  .contents {
+    justify-content: center;
+  }
+  
+} 
+
+
+
+.url-header {
+  font-size: 0.9rem;
+  font-weight: lighter;
 }
 
 
-@media(max-width:775px){
-  h1 {
-    font-size: 2.5em;
-  }
 
-  .head > img {
-    padding: 0px 15px 69px 0px;
-    width: 200px;
-  }
+.options {
+  padding-bottom: 15px;
 }
 
-@media(max-width: 600px){
-  h1 {
-    font-size: 2em;
-  }
+.options-header {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+}
 
-  .head > img {
-    padding: 0px 15px 50px 0px;
-    width: 150px;
-  }
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.option-item {
+  padding: 8px 15px;
+  border: 1px solid  #FF5600;
+  border-radius: 25px;
+  color:  #FF5600;
+  font-size: 0.9rem;
+  margin: 3px;
+  cursor: pointer;
+}
+
+.option-item:hover {
+  background-color:#FF5600;
+  color: #ffffff;
 }
