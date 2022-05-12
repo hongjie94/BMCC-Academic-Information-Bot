@@ -1,6 +1,6 @@
 .BotAvatar {
   height: 43px;
-  width: 47px;
+  width: 53px;
   border-radius: 100%;
   display:flex;
   margin-right: 10px;
@@ -15,5 +15,6 @@
   width: 85%;
   border-radius: 100%;
   margin-bottom: 3px;
+  margin-left: 2px;
   border-color:#1D56A7 ;
 }

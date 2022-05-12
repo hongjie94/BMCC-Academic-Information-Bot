@@ -1,13 +1,15 @@
 import { createChatBotMessage } from 'react-chatbot-kit';
 import BotAvatar from './widgets/BotAvatar/BotAvatar';
 import Overview from './widgets/Overview';
-import AAdegree from './widgets/AAdegrees/AAdegree';
 import Degrees from './widgets/Degrees';
-import ASdegree from './widgets/ASdegree/ASdegree';
-import AASdegree from './widgets/AASdegrees/AASdegree';
+import AAdegrees from './widgets/AAdegrees';
+import ASdegrees from './widgets/ASdegrees';
+import AASdegrees from './widgets/AASdegrees';
 import CertificatePrograms from './widgets/CertificatePrograms/CertificatePrograms';
-import Microcredential from './widgets/Microcredential'
-
+import MicroCredentials from './widgets/MicroCredentials'
+import Links from './widgets/ReUsableComponents/Links';
+import Contact from './widgets/CertificatePrograms/Contact';
+import Maps from './widgets/ReUsableComponents/Maps';
 
 const botName = 'BMCC Academic Information Bot';
 
@@ -18,7 +20,7 @@ const config = {
     botAvatar: (props) =><BotAvatar {... props} />
   },
   state: {
-    buttonValue: ''
+    name:[]
   },
   customStyles: {
     botMessageBox: {
@@ -50,24 +52,38 @@ const config = {
       widgetFunc: (props) => <Degrees {...props}/>
     },
     {
-      widgetName: "AAdegree",
-      widgetFunc: (props) => <AAdegree {...props}/>,
+      widgetName: "AAdegrees",
+      widgetFunc: (props) => <AAdegrees {...props}/>,
     },
     {
-      widgetName: "ASdegree",
-      widgetFunc: (props) => <ASdegree {...props}/>
+      widgetName: "ASdegrees",
+      widgetFunc: (props) => <ASdegrees {...props}/>
     },
     {
-      widgetName: "AASdegree",
-      widgetFunc: (props) => <AASdegree  {...props}/>
+      widgetName: "AASdegrees",
+      widgetFunc: (props) => <AASdegrees  {...props}/>
     },
     {
       widgetName: "CertificatePrograms",
       widgetFunc: (props) => <CertificatePrograms  {...props}/>
     },
     {
-      widgetName: "Microcredential",
-      widgetFunc: (props) => <Microcredential />
+      widgetName: "MicroCredentials",
+      widgetFunc: (props) => <MicroCredentials  {...props}/>
+    },
+    {
+      widgetName: "Contact",
+      widgetFunc: (props) => <Contact  {...props}/>
+    },
+    {
+      widgetName: "Links",
+      widgetFunc: (props) => <Links  {...props}/>,
+      mapStateToProps: ["name"]
+    },
+    {
+      widgetName: "Maps",
+      widgetFunc: (props) => <Maps  {...props}/>,
+      mapStateToProps: ["name"]
     }
   ]
 };

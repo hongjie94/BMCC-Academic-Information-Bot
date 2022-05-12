@@ -1,31 +1,26 @@
-import Options from "./reUsableComponents/Options";
+import Options from "./ReUsableComponents/Options";
 
 const GeneralOptions = (props) => {
   const options = [
     {
       name: "ASSOCIATE IN APPLIED SCIENCE DEGREE (A.A.S.)",
-      handler: props.actionProvider.handleAASdegree,
-      id: 1
+      handler: "handleAASdegrees",
     },
     {
       name: "ASSOCIATE IN ARTS DEGREE (A.A.)",
-      handler: props.actionProvider.handleAAdegree,
-      id: 2
+      handler: "handleAAdegrees",
     },
     {
       name: "ASSOCIATE IN SCIENCE DEGREE (A.S.)",
-      handler: props.actionProvider.handleASdegree,
-      id: 3
+      handler: "handleASdegrees",
     },
     {
       name: "CERTIFICATE PROGRAMS",
-      handler: props.actionProvider.handleCertificatePrograms,
-      id: 4
+      handler: 'handleCertificatePrograms',
     },
     {
       name: "MICROCREDENTIAL",
-      handler: props.actionProvider.handleMicrocredential,
-      id: 5
+      handler: 'handleMicroCredentials',
     }
   ];
   return <Options options={options} {...props} />;

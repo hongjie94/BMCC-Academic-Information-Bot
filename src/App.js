@@ -1,3 +1,5 @@
+import React, {useState} from 'react';
+import {UserContext} from './UserContext';
 import config from './chatbot/config.js';
 import MessageParser from './chatbot/MessageParser.js';
 import ActionProvider from './chatbot/ActionProvider.js';
@@ -9,9 +11,10 @@ import './App.css';
 import { motion } from 'framer-motion';
 
 function App() {
-
+  const [Value, setValue] = useState('');
   return (
-    <motion.div className="app"
+    <UserContext.Provider value={{Value, setValue}}> 
+      <motion.div className="app"
     initial={{ opacity: 0}}
     animate = {{ opacity: 1}}
     >
@@ -19,9 +22,8 @@ function App() {
         <div className="navbar-content">
           <img src={logo} alt="logoImage"/>
           <div className="textBox">
-            <h1>Academic Information Bot</h1>
+  <h1>Academic Information Bot</h1>
           </div>
-          
         </div>
       </div>
       <div className="contents">
@@ -30,8 +32,13 @@ function App() {
           animate = {{ opacity: 1}}
           transition={{delay: .5, duration: 2}}
         >
-          <img src={bg} alt="backgroundImage"/>
+          {Value !== 'N/A' && !Value &&<img src={bg} alt="backgroundImage"/>}
         </motion.div>
+        {Value && 
+          <div className="pdfFrame">
+            <iframe src={Value} title="maps"></iframe>
+          </div>
+        }
         <div className="chatboot-container">
           <Chatbot
             config={config}
@@ -42,7 +49,6 @@ function App() {
       </div>
 
       <div className="footer">
-
       </div>
       {/* <motion.div className="head"
         initial={{ y: -250}}
@@ -55,6 +61,7 @@ function App() {
       </motion.div> */}
       
     </motion.div>
+    </UserContext.Provider>  
   );
 }
 

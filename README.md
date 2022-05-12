@@ -2,14 +2,14 @@
 * React
 * CSS3
 * HTML5
-* IMB Waston Assiant
+* React-Chatbot-kit
 * Framer Motion(Animation)
 * Firebase(Hosting)
 
-## App-Diagram 
+## App-Preview 
 ![Screenshot](./preview.png)
 
-# BMCC INFORMATION BOT
+# BMCC Academic Information Bot
 ### [https://bmcc-information-bot.web.app](https://bmcc-information-bot.web.app)
 
 # Getting Started with Create React App

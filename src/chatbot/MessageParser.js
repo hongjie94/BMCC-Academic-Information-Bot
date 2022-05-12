@@ -1,40 +1,24 @@
-import WastonAssistantData from '../data/WastonAssistantData.json';
-import Degrees from './widgets/Degrees';
+import MajorDatas from '../data/MajorDatas.json';
+
 class MessageParser {
   constructor(actionProvider, state) {
     this.actionProvider = actionProvider;
     this.state = state;
   }
   
-  // FilterMessage(message) {
-  //     if (message) {
-      
-      
-  //       WastonAssistantData.intents.filter((results)=>{
-  //         results.examples.some((result)=>{
-  //           if(((result.text).toLowerCase()).includes(message.toLowerCase())) {
-  //             console.log(results.intent);
-  //           }
-  //         })
-  //         return console.log("hi");
-  //       });
-     
-        
-  //     };
-  // }
-
-
   parse(message) {
-    // this.FilterMessage(message);
     
+    const lowerCaseMessage = message.toLowerCase();
+
     const greeing = [
       'hello',
-      'hi',
-      'good morning',
-      'good afternoon'
+      'hi'
     ];
 
     const thankyou = [
+      'i appreciate it',
+      'ok thank you',
+      'thank you so much',
       'thank you',
       'thanks',
       'ty'
@@ -47,7 +31,10 @@ class MessageParser {
 
     const degrees = [
       'degrees',
+      'majors',
       'What Degrees do BMCC offer',
+      'what degree does bmcc offered',
+      'what kind of degrees are offered at BMCC',
       'what degrees does'
     ];
 
@@ -58,37 +45,50 @@ class MessageParser {
     ];
 
     const microCredentials = [
-      'Micro Credentials'
-    ]
+      'Micro Credentials',
+      'Micro-Credentials'
+    ];
 
-    const recognized = greeing.concat(options,certifications, degrees, microCredentials);
+    const majorTitles = MajorDatas.map((data)=> {
+      return data.title;
+    });
+
+    const recognized = greeing.concat(options,certifications, degrees, microCredentials, majorTitles, thankyou);
         
     if(message) {
-      if (greeing.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
+     
+      if (greeing.some(text => (text.toLowerCase()).includes(lowerCaseMessage))) {
         return this.actionProvider.handleHello();
       }
 
-      if (thankyou.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
+      if (thankyou.some(text => (text.toLowerCase()).includes(lowerCaseMessage)) && message) {
         return this.actionProvider.handleThanks();
       }
 
-      if (degrees.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
-        return this.actionProvider.handleDegrees({ withAvatar: true });
+      if (degrees.some(text => (text.toLowerCase()).includes(lowerCaseMessage))) {
+        return this.actionProvider.handleDegrees();
       }
 
-      if (certifications.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
-        return this.actionProvider.handleCertifications({ withAvatar: true });
-      }
-      if (microCredentials.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
-        return this.actionProvider.handlemicroCredentials({ withAvatar: true });
+      if (certifications.some(text => (text.toLowerCase()).includes(lowerCaseMessage))) {
+        return this.actionProvider.handleCertifications();
       }
 
-      if (options.some(text => (text.toLowerCase()).includes(message.toLowerCase()))) {
-        return this.actionProvider.handleOptions({ withAvatar: true });
+      if (microCredentials.some(text => (text.toLowerCase()).includes(lowerCaseMessage))) {
+        return this.actionProvider.handleMicroCredentials();
+      }
+
+      if (majorTitles.some(text =>(text.toLowerCase()).includes(lowerCaseMessage) && message !== 'no'
+      )) {
+        const result = majorTitles.filter(text =>(text.toLowerCase()).includes(lowerCaseMessage));
+        return this.actionProvider.handleMajors(result);
+      }
+
+      if (options.some(text => (text.toLowerCase()).includes(lowerCaseMessage))) {
+        return this.actionProvider.handleOptions();
       }
     };
    
-    if (!recognized.some(text => (text.toLowerCase()).includes(message.toLowerCase())) || !message) {
+    if (!recognized.some(text => (text.toLowerCase()).includes(lowerCaseMessage)) || !message || message === 'no') {
       this.actionProvider.handleOther();
     }
   }

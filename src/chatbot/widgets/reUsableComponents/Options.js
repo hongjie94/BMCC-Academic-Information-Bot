@@ -1,11 +1,18 @@
 
 const Options = (props) => {
- 
   const actionHandler = (actionName) => {
-    console.log(actionName)
     switch(actionName) {
       case "handleDegrees":
         props.actionProvider.handleDegrees();
+        break;
+      case "handleAASdegrees":
+        props.actionProvider.handleAASdegrees();
+        break;
+      case "handleAAdegrees":
+        props.actionProvider.handleAAdegrees();
+        break;
+      case "handleASdegrees":
+        props.actionProvider.handleASdegrees();
         break;
       case 'handleCertificatePrograms':
         props.actionProvider.handleCertificatePrograms();
@@ -13,21 +20,30 @@ const Options = (props) => {
       case 'handleMicroCredentials':
         props.actionProvider.handleMicroCredentials();
         break;
+      case 'handleAccountingCertificateProgram':
+        props.actionProvider.handleAccountingCertificateProgram();
+        break;
+      case 'handleHealthInformaticsCertificateProgram':
+        props.actionProvider.handleHealthInformaticsCertificateProgram();
+        break;
+      case 'handleSpanishTranslationCertificateProgram':
+        props.actionProvider.handleSpanishTranslationCertificateProgram();
+        break;
+      case 'majors':
+        props.actionProvider.handleMajors(['Cyber-Security']);
+        break;
       default:
-        // code block
     }
-    
   }
   return (
     <div className="options">
       <div className="options-container">
-        {props.options.map((option) => {
+        {props.options.map((option,i) => {
           return (
             <div
               className="option-item"
-              onClick={()=> { 
-                actionHandler(option.handler)}}
-              key={option.id}
+              onClick={()=> {actionHandler(option.handler)}}
+              key={i}
             >
               {option.name}
             </div>

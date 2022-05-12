@@ -1,24 +1,18 @@
-import Options from "../reUsableComponents/Options";
+import List from "../ReUsableComponents/Lists";
 
-const GeneralOptions = (props) => {
-  const options = [
+const GeneralLists = (props) => {
+  const lists = [
     {
-      name: "Accounting Certificate Program (ACP)",
-      handler: 'handleAccountingCertificateProgram',
-      id: 1
+      label: "Accounting Certificate Program (ACP)"
     },
     {
-      name: "Health Informatics Certificate Program",
-      handler: 'handleHealthInformaticsCertificateProgram',
-      id: 2
+      label: "Health Informatics Certificate Program"
     },
     {
-      name: "Spanish Translation for the Health, Legal and Business Professions Certificate Program",
-      handler: 'SpanishTranslationCertificateProgram',
-      id: 3
+      label: "Spanish Translation for the Health, Legal and Business Professions Certificate Program"
     }
   ];
-  return <Options options={options} {...props} />;
+  return <List lists={lists} title={'Certificate Programs'} {...props} />;
 };
 
-export default GeneralOptions;
+export default GeneralLists;

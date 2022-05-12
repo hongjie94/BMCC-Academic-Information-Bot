@@ -10,6 +10,7 @@
   display:flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 1em;
 }
 
 .navbar-content {
@@ -33,15 +34,16 @@
 }
 .navbar-content > .textBox > h1 {
   margin: 0;
-  color: #FF5600;
+  color: #FF7D00;
 }
 
 /******* Contents section *******/
 .contents {
   background: #3F3D56;
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  min-height: 70vh;
+  min-height: 100vh;
 }
 
 .image-container {
@@ -51,19 +53,24 @@
   height: auto;
   align-items: flex-end;
 }
+.image-container > iframe {
+  width: 100%;
+  height: 100%;
+}
 .image-container > img {
   width: 100%;
 }
 .chatboot-container {
   display: flex;
   justify-content:center;
+  align-items: center;
   padding: 3em 1em;
   width: 40%;
 }
 
 /******* Footer section *******/
 .footer {
-  height: 15vh;
+  height: 10vh;
   background: #F2F2F2;
 }
 
@@ -75,9 +82,177 @@
   background: #3F3D56;
 }
 
+.react-chatbot-kit-chat-message-container {
+  height: 84.5%;
+}
+
+.react-chatbot-kit-chat-container {
+  height: 515px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+
+/*******  Reusable Components *******/
+
+.url-link {
+  font-size: 0.8rem;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #FF7D00;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.url-icon {
+  width: 35px;
+  margin-right: 10px;
+}
+.url-header {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.list-title {
+  font-size: 17px;
+    text-align: center;
+    color: #FF7D00;
+    padding: 0.5em 0;
+}
+.list {
+  padding-left: 1em;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+.list-item {
+  margin: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #FF7D00;
+  cursor: pointer;
+}
+
+.list-item:hover {
+  color: #3F3D56;
+  text-decoration: underline;
+}
+
+.options {
+  padding-bottom: 15px;
+}
+
+.options-header {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.options-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.option-item {
+  padding: 8px 15px;
+  border: 1px solid  #FF7D00;
+  border-radius: 25px;
+  color:  #FF7D00;
+  font-size: 0.9rem;
+  margin: 7px 3px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.option-item:hover {
+  background-color:#FF7D00;
+  color: #ffffff;
+}
+
+.mapsButtons {
+  padding: 9px 30px;
+  border: 1px solid #FF7D00;
+  border-radius: 5px;
+  color: #FF7D00;
+  font-size: 0.9rem;
+  margin: 5px 3px;
+  cursor: pointer;
+  font-weight: 500;
+  text-align: center;
+}
+
+.mapTitle {
+  font-size: 15px;
+  text-decoration: underline;
+  padding: 8px 0;
+  font-weight: 500;
+}
+
+.notAvailableMaps {
+  font-size: 11px;
+  text-align: center;
+  color: #B33A3A;
+  font-weight: 800;
+  padding: 0 1em;
+}
+
+.notAvailableMaps > span {
+  font-size: 2em;
+}
+
+
+.mapsButtons:hover {
+  background-color:#FF7D00;
+  color: #ffffff;
+}
+
+.mapsAtag {
+  text-decoration: none;
+}
+.plan {
+  padding: 9px 4px !important;
+}
+
+.contactUl {
+  font-size: 13px;
+}
+.contactUl > li {
+  padding: 16px 4px;
+}
+
+/******* PDF frame/ifrmae *******/
+.pdfFrame {
+  position: absolute;
+  width: 60%;
+  height: auto;
+  min-height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+iframe {
+  height: 85vh;
+  width: 90%;;
+}
+
 /******* mobile resiponsive design *******/
 
 @media(max-width: 710px){
+  .contents {
+    display: block;
+  }
+
+  .pdfFrame {
+    position: unset;
+    width: 90%;
+    margin: auto;
+    padding-top: 3em;
+  }
+
+.chatboot-container {
+  padding:3em 1em;
+  width: auto;
+}
   .navbar-content >img {
     height: 105px;
   }
@@ -99,42 +274,3 @@
   
 } 
 
-
-
-.url-header {
-  font-size: 0.9rem;
-  font-weight: lighter;
-}
-
-
-
-.options {
-  padding-bottom: 15px;
-}
-
-.options-header {
-  text-align: center;
-  font-size: 1rem;
-  font-weight: normal;
-}
-
-.options-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.option-item {
-  padding: 8px 15px;
-  border: 1px solid  #FF5600;
-  border-radius: 25px;
-  color:  #FF5600;
-  font-size: 0.9rem;
-  margin: 3px;
-  cursor: pointer;
-}
-
-.option-item:hover {
-  background-color:#FF5600;
-  color: #ffffff;
-}

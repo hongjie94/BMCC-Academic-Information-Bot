@@ -12,10 +12,7 @@
     "title": "Urban Studies",
     "name": "Urban Studies (A.A.)",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/social-sciences/urban-studies/",
-    "node_id": "node_10_1651298280932",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_10_1651298280932"
   },
   {
     "title": "Business Administration",
@@ -129,19 +126,13 @@
     "title": "Cyber-Security",
     "name": "Cyber-Security",
     "detailLink": "https://www.bmcc.cuny.edu/cyber-security-micro-credential/",
-    "node_id": "node_2_1651294365772",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_2_1651294365772"
   },
   {
     "title": "Health Informatics Certificate Program",
     "name": "Health Informatics Certificate Program",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/allied-health/health-informatics-certificate/",
-    "node_id": "node_2_1651297071441",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_2_1651297071441"
   },
   {
     "title": "Communication Studies",
@@ -156,10 +147,7 @@
     "title": "Critical Thinking and Justice",
     "name": "Critical Thinking and Justice (A.A.)",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/academic-literacy/critical-thinking-and-justice/",
-    "node_id": "node_2_1651297799601",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_2_1651297799601"
   },
   {
     "title": "Liberal Arts",
@@ -183,10 +171,7 @@
     "title": "Childhood Education",
     "name": "Childhood Education",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/childhood-education-edu/",
-    "node_id": "node_3_1651297430961",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_3_1651297430961"
   },
   {
     "title": "Writing and Literature",
@@ -318,10 +303,7 @@
     "title": "Modern Languages: Spanish Translation and Interpretation",
     "name": "Modern Languages: Spanish Translation and Interpretation (A.A.)",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/modern-languages/modern-languages-spanish-translation-and-interpretation/",
-    "node_id": "node_5_1651298279151",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_5_1651298279151"
   },
   {
     "title": "Computer Science",
@@ -354,10 +336,7 @@
     "title": "Accounting Certificate Program",
     "name": "Accounting Certificate Program (ACP)",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/accounting/accounting-certificate-program-acp/",
-    "node_id": "node_6_1651296948981",
-    "careerMap": "N/A",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "node_id": "node_6_1651296948981"
   },
   {
     "title": "Ethnic Studies",
@@ -392,17 +371,57 @@
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/teacher-education/secondary-education-program/",
     "node_id": "node_6_1651298847161",
     "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Math-and-Science-for-Secondary-Education-Career-Map.pdf",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "mutiplePlan": [
+      {
+        "planName": "Math and Science for Secondary Education Specialization in Biology(SED-SEB)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-3yr.pdf"
+      },
+      {
+        "planName": "Math and Science for Secondary Education Specialization in Chemistry(SED-SEC)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-3yr.pdf"
+      },
+      {
+        "planName": "Math and Science for Secondary Education Specialization in Math(SED-SEM)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-3yr.pdf"
+      },
+      {
+        "planName": "Math and Science for Secondary Education Specialization in Physics(SED-SEP)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-3yr.pdf"
+      }
+    ]
   },
   {
     "title": "Business Management",
     "name": "Business Management (A.A.S.)",
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/business-management/business-management/",
     "node_id": "node_7_1651287687856",
-    "careerMap": "N/A", 
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Business-Management-Career-Map.pdf", 
+    "mutiplePlan": [
+      {
+        "planName": "Specilation in Finance and Banking",
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-fnb-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-fnb-3yr.pdf"
+      },
+      {
+        "planName": "Specilation in Travel and Tourism",
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-htt-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-htt-3yr.pdf"
+      },
+      {
+        "planName": "Specilation in Marketing",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-3yr.pdf"
+      },
+      {
+        "planName": "Specilation in General Management",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-3yr.pdf"
+      }
+    ]
   },
   {
     "title": "Nursing",
@@ -410,8 +429,17 @@
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/nursing/nursing-program/",
     "node_id": "node_7_1651289355007",
     "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Nursing-Career-Map.pdf",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "NursingMap":[
+      {
+        "planName": "Undeclared Health (UDH) to Nursing (NUR) Spring",
+        "Plan1":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/nur-spring-day-3yr.pdf",
+        "Plan2":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/nur-spring-eve-3yr.pdf"
+      },
+      {
+        "planName": "Undeclared Health (UDH) to Nursing (NUR) Fall",
+        "Plan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/nur-fall-3yr.pdf"
+      }
+    ]
   },
   {
     "title": "Bilingual Childhood Education",
@@ -518,8 +546,18 @@
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/accounting/accounting-for-forensic-accounting/",
     "node_id": "node_9_1651298838529",
     "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Forensic-Accounting-Career-Map.pdf",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "mutiplePlan": [
+      {
+        "planName": "Accounting for Forensic Accounting (with MAT 150)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat150-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-stat-3yr.pdf"
+      },
+      {
+        "planName": "ccounting for Forensic Accounting (with MAT 206)",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat206-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-precal-3yr.pdf"
+      }
+    ]
   },
   {
     "title": "Multimedia Programming and Design",
@@ -536,8 +574,23 @@
     "detailLink": "https://www.bmcc.cuny.edu/academics/departments/music-and-art/music/",
     "node_id": "node_9_1651298848496",
     "careerMap": "https://www.bmcc.cuny.edu/wp-content/uploads/2020/04/Music-Career-Map.pdf",
-    "academicMap2YearPlan": "N/A",
-    "academicMap5semesterPlan": "N/A"
+    "mutiplePlan": [
+      {
+        "planName": "Music Specialization In Music Education Program",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-3yr.pdf"
+      },
+      {
+        "planName": "Music Specialization In Music Performance Program",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-3yr.pdf"
+      },
+      {
+        "planName": "Music Specialization In Music Studies Program",
+        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-2yr.pdf",
+        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-3yr.pdf"
+      }
+    ]
   },
   {
     "title": "Public Health",
