@@ -7,7 +7,7 @@
 * Firebase(Hosting)
 
 ## App-Preview 
-![Screenshot](./preview.png)
+![Screenshot](./app-preview.png)
 
 # BMCC Academic Information Bot
 ### [https://bmcc-information-bot.web.app](https://bmcc-information-bot.web.app)
