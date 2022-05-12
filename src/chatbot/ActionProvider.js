@@ -12,13 +12,13 @@ class ActionProvider {
         ...state,
         messages: [...state.messages, message,message2]
       }));
-    } 
-    else {
+    }
+    if(!message2) {
       this.setState((state) => ({
         ...state,
         messages: [...state.messages, message]
       }));
-    }
+    } 
   };
 
   addNameToState = (name)=> {

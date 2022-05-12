@@ -15,14 +15,14 @@ function App() {
   return (
     <UserContext.Provider value={{Value, setValue}}> 
       <motion.div className="app"
-    initial={{ opacity: 0}}
-    animate = {{ opacity: 1}}
-    >
+      initial={{ opacity: 0}}
+      animate = {{ opacity: 1}}
+      >
       <div className="navbar">
         <div className="navbar-content">
           <img src={logo} alt="logoImage"/>
           <div className="textBox">
-  <h1>Academic Information Bot</h1>
+          <h1>Academic Information Bot</h1>
           </div>
         </div>
       </div>
@@ -30,36 +30,43 @@ function App() {
         <motion.div className="image-container"
           initial={{ opacity: 0}}
           animate = {{ opacity: 1}}
-          transition={{delay: .5, duration: 2}}
+          transition={{delay: .5, duration: 4,stiffness: 120}}
         >
           {Value !== 'N/A' && !Value &&<img src={bg} alt="backgroundImage"/>}
         </motion.div>
         {Value && 
-          <div className="pdfFrame">
-            <iframe src={Value} title="maps"></iframe>
-          </div>
+          <motion.div 
+            initial={{ y: -1000}}
+            animate = {{ y: -10}}
+            transition={{delay: 0.5, type: 'spring', stiffness: 120}}
+            className="pdfFrame">
+            <iframe src={Value} title="maps">
+            </iframe>
+            <div className="switchTab">
+              <span>⚠️ Having an issue loading the PDF files ? 
+                Click the link below to browse in a separate tab. 
+              </span>
+              <a href={Value} rel="noreferrer" target="_blank" title="maps_url">
+             <span>Browse In Separate Tab</span> 
+              </a>
+            </div>
+          </motion.div> 
         }
-        <div className="chatboot-container">
+        <motion.div  
+          initial={{ y: -1000}}
+          animate = {{ y: -10}}
+          transition={{delay: 0.5, type: 'spring', stiffness: 120}}
+          className="chatboot-container">
           <Chatbot
             config={config}
             messageParser={MessageParser}
             actionProvider={ActionProvider}
           />
-        </div>
+        </motion.div>
       </div>
 
       <div className="footer">
-      </div>
-      {/* <motion.div className="head"
-        initial={{ y: -250}}
-        animate = {{ y: -10}}
-        transition={{delay: 0.5, type: 'spring', stiffness: 120}}
-      >
-       
-       
-        
-      </motion.div> */}
-      
+      </div>     
     </motion.div>
     </UserContext.Provider>  
   );

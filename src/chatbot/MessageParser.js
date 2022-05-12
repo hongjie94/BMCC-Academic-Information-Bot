@@ -17,7 +17,6 @@ class MessageParser {
 
     const thankyou = [
       'i appreciate it',
-      'ok thank you',
       'thank you so much',
       'thank you',
       'thanks',

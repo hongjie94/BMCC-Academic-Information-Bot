@@ -72,7 +72,7 @@ const CareerMaps = (props) => {
                   <a className="mapsAtag" href={data.fiveSemsterPlan}>
                     <div
                       className="mapsButtons plan"
-                      onClick={(e)=> {ClickHandler(e, data.fiveSemsterPlann)}}
+                      onClick={(e)=> {ClickHandler(e, data.fiveSemsterPlan)}}
                     >5 semester Plan
                     </div>
                   </a>

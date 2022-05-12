@@ -44,6 +44,7 @@
   align-items: center;
   justify-content: space-between;
   min-height: 100vh;
+  padding-bottom: 3em;
 }
 
 .image-container {
@@ -186,6 +187,7 @@
   text-decoration: underline;
   padding: 8px 0;
   font-weight: 500;
+  color: #3F3D56;
 }
 
 .notAvailableMaps {
@@ -227,12 +229,35 @@
   height: auto;
   min-height: 85vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  top: 25%;
 }
+
 iframe {
   height: 85vh;
-  width: 90%;;
+  width: 90%;
+  border: none;
+  border-radius: 5px;
+}
+
+.switchTab {
+  width: 88%;
+  padding-top: 2em
+}
+
+.switchTab > span {
+  color: #FF7D00;
+  margin: 0;
+}
+
+.switchTab > a {
+ color: #ffffff;
+}
+.switchTab > a:hover {
+ color: #0065AB;;
+ padding:0 5px ;
 }
 
 /******* mobile resiponsive design *******/
@@ -240,6 +265,7 @@ iframe {
 @media(max-width: 710px){
   .contents {
     display: block;
+    padding-bottom: 0;
   }
 
   .pdfFrame {

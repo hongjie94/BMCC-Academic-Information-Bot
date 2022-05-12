@@ -374,23 +374,23 @@
     "mutiplePlan": [
       {
         "planName": "Math and Science for Secondary Education Specialization in Biology(SED-SEB)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-bio-3yr.pdf"
       },
       {
         "planName": "Math and Science for Secondary Education Specialization in Chemistry(SED-SEC)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-che-3yr.pdf"
       },
       {
         "planName": "Math and Science for Secondary Education Specialization in Math(SED-SEM)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-mth-3yr.pdf"
       },
       {
         "planName": "Math and Science for Secondary Education Specialization in Physics(SED-SEP)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/sed-phy-3yr.pdf"
       }
     ]
   },
@@ -413,13 +413,13 @@
       },
       {
         "planName": "Specilation in Marketing",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-mar-3yr.pdf"
       },
       {
         "planName": "Specilation in General Management",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/bec-gen-3yr.pdf"
       }
     ]
   },
@@ -549,13 +549,13 @@
     "mutiplePlan": [
       {
         "planName": "Accounting for Forensic Accounting (with MAT 150)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat150-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-stat-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat150-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-stat-3yr.pdf"
       },
       {
         "planName": "ccounting for Forensic Accounting (with MAT 206)",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat206-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-precal-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-mat206-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/fac-precal-3yr.pdf"
       }
     ]
   },
@@ -577,18 +577,18 @@
     "mutiplePlan": [
       {
         "planName": "Music Specialization In Music Education Program",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-edm-3yr.pdf"
       },
       {
         "planName": "Music Specialization In Music Performance Program",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-prf-3yr.pdf"
       },
       {
         "planName": "Music Specialization In Music Studies Program",
-        "2yearPaln":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-2yr.pdf",
-        "5semsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-3yr.pdf"
+        "twoYearPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-2yr.pdf",
+        "fiveSemsterPlan":"https://www.bmcc.cuny.edu/wp-content/uploads/ported/academics/upload/mus-mst-3yr.pdf"
       }
     ]
   },
