@@ -30,7 +30,7 @@ class ActionProvider {
 
   addMajorNameToState =(name)=>{
     
-    this.setState(state =>({...state, name:name}))
+    this.setState(state =>({...state, name:name}));
   };
 
   handleOptions = () => {
@@ -253,10 +253,10 @@ class ActionProvider {
       }
     );
     this.addMessageToState(message);
+    this.handleEnd();
   };
 
   handleMajors(names){
-    console.log(names)
     if(names.length === 1) {
       const message = this.createChatBotMessage(
         `For more information on ${names}, 
